@@ -87,10 +87,10 @@ const config = {
       },
       navbar: {
         title: 'Aleo Developer',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'My Site Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
       {
         type: 'docSidebar',
