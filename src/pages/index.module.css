@@ -216,7 +216,7 @@
 }
 
 .pathLinks li a:hover {
-  color: #e8e8ec;
+  color: var(--ifm-color-primary);
 }
 
 /* STEPS */
